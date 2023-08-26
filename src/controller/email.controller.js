@@ -7,7 +7,7 @@ const submitHandle = async (req, res, next) => {
     service: "hotmail",
     auth: {
       user: "jumpei0129@outlook.jp",
-      pass: "junkun0129",
+      pass: "Yuko0011",
     },
   });
   const options = {
